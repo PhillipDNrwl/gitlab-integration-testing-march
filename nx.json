@@ -13,7 +13,7 @@
     ]
   },
   "nxCloudUrl": "https://staging.nx.app",
-  "nxCloudId": "67d46ec886c9e02a7c98432c",
+  "nxCloudId": "67d48df44fc47f23e6cc6e29",
   "plugins": [
     {
       "plugin": "@nx/js/typescript",
